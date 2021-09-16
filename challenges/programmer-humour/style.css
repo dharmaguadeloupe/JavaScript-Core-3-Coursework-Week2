@@ -1,0 +1,13 @@
+* {
+  background-color: #343a40;
+}
+body {
+  color: #fff;
+  margin-left: 30%;
+  margin-right: auto;
+}
+
+#wrapper {
+  margin: 0 auto;
+  overflow: hidden;
+}
